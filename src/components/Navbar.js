@@ -38,6 +38,7 @@ const Navbar = () => {
                   <SocialIcon url="http://twitter.com/NithinJ13585022" className="mr-4" target="_blank" fgColor="#fff" style={{height:35,width:35}}/>
                   <SocialIcon url="http://linkedin.com/in/nithin-jose-6741011b6" className="mr-4" target="_blank" fgColor="#fff" style={{height:35,width:35}}/>
                   <SocialIcon url="http://youtube.com/channel/UCKEQyELj8NJPbSb3qMnq2vg" className="mr-4" target="_blank" fgColor="#fff" style={{height:35,width:35}}/>
+                  <SocialIcon url="http://github.com/nithinjose-tech" className="mr-4" target="_blank" fgColor="#fff" style={{height:35,width:35}}/>
                 </div>
             </div>
         </header>
