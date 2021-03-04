@@ -1,5 +1,5 @@
 import React from 'react'
-import image from '../beach.jpg'
+import image from '../tree.jpg'
 
 const Home = () => {
     return (

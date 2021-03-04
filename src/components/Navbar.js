@@ -35,7 +35,7 @@ const Navbar = () => {
                 </nav>
 
                 <div className="inline-flex py-3 px-3 my-6">
-                  <SocialIcon url="http://twitter.com/NithinJ13585022" className="mr-4" target="_blank" fgColor="#fff" style={{height:35,width:35}}/>
+                  <SocialIcon url="http://twitter.com/NithinJ90403043" className="mr-4" target="_blank" fgColor="#fff" style={{height:35,width:35}}/>
                   <SocialIcon url="http://linkedin.com/in/nithin-jose-6741011b6" className="mr-4" target="_blank" fgColor="#fff" style={{height:35,width:35}}/>
                   <SocialIcon url="http://youtube.com/channel/UCKEQyELj8NJPbSb3qMnq2vg" className="mr-4" target="_blank" fgColor="#fff" style={{height:35,width:35}}/>
                   <SocialIcon url="http://github.com/nithinjose-tech" className="mr-4" target="_blank" fgColor="#fff" style={{height:35,width:35}}/>
